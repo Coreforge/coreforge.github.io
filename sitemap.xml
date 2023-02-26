@@ -8,8 +8,4 @@
         <loc>https://coreforge.github.io/</loc>
         <priority>1.00</priority>
     </url>
-    <url>
-        <loc>https://github.com/Coreforge/infiniteExplorer</loc>
-        <priority>0.90</priority>
-    </url>
 </urlset>
